@@ -1,1 +1,1 @@
-<?php include "isprac.html";?>
+<?php include 'isprac.html';?>
